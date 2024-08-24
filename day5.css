@@ -1,0 +1,54 @@
+body
+{
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1
+{   
+	border: 5px solid lightpink;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+p
+{
+	color: red;
+	font-family: cursive;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+#aroma
+{
+	color: green;
+	border: 10px dotted blue;
+}
+.broon
+{
+	border: none;
+	text-align: center;
+	color: antiquewhite;
+}
+#amaz
+{
+	color: aqua;
+	font-family: snas-serif;
+}
+img:hover
+{
+	opacity: 0.5;
+}
+#taser
+{
+	color: seagreen;
+}
+.blook
+{
+	font-family: fantasy;
+	color: black;
+}
+#hidden
+{
+	color: yellow;
+}
